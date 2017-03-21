@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Debris
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Debris\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Debris\ here.\r\n\ Amanda\ Schepp\r\n\ Mr.Hardman\r\n\ Assignment\ \#2\r\n\ March\ 20th\r\n
 comment1.params=
 comment1.target=Debris()
 comment1.text=\r\n\ Debris\ is\ the\ constructor\ of\ the\ debris\ class\r\n\ @param\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n

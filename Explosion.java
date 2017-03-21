@@ -6,6 +6,10 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
  * 
  * @author Poul Henriksen
  * @version 1.0.1
+ * * Amanda Schepp
+ * Mr.Hardman
+ * Assignment #2
+ * March 20th
  */
 public class Explosion extends Actor
 {
